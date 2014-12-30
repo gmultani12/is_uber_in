@@ -2,5 +2,5 @@
 # https://developers.google.com/webmasters/control-crawl-index/
 
 User-agent: *
-Sitemap: http://www.islyftin.com/sitemap.xml
+Sitemap: http://www.isuberin.com/sitemap.xml
 Disallow:
